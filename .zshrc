@@ -17,3 +17,6 @@ alias desk="cd ~/Desktop"
 alias cl="clear"
 alias ..="cd .."
 alias ...="cd ../.."
+
+# Xcode
+alias ios="open /Applications/Xcode.app/Contents/Applications/iOS\ Simulator.app"
